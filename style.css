@@ -1,0 +1,63 @@
+.main-section
+{
+    text-align: center;
+}
+
+.section1
+{
+    background-color:rgba(148, 63, 2, 0.952);
+    padding: 6rem;
+   
+}
+.section2
+{
+background-color:sandybrown;
+padding: 2rem;
+display: flex;
+flex-direction: column;
+}
+.my-nav
+{
+    display: flex;
+    justify-content: center;
+  align-items: center;
+    flex-direction: row;
+  gap:2rem;
+  color: green;
+}
+
+.my-text1
+{
+    font-size:2rem;
+    font-weight: bold;
+}
+
+.my-text2
+{
+    color: brown;
+    font-size: 1.2rem;
+
+}
+
+.my-text3
+{
+    color: brown;
+    font-size: 1.2rem;
+
+}
+.my-text4
+{
+    color: black;
+    font-size: 1.2rem;
+}
+
+.my-main
+{
+    display: flex;
+    justify-content: left;
+    align-items: flex-start;
+    flex-direction: column;
+   gap:1rem;
+   margin-bottom: 5rem;
+    
+}
